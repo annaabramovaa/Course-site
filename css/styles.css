@@ -1,0 +1,262 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-image: url('../Images/unsplash_nRUp8NXmh4g.png');
+    text-align: center;
+    background-size: cover;
+    padding: 35px 0 175px;
+}
+
+h1 {
+    font-size: 60px;
+    color: #fff;
+    margin-bottom: 75px;
+    line-height: 70px;
+}
+
+.header_paragraph {
+    font-size: 20px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.logotype {
+    display: block;
+    margin: 0 auto;
+    width: 260px;
+    margin-bottom: 225px;
+
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FF9728;
+    border-radius: 30px;
+    border: none;
+    padding: 16px 40px;
+    cursor: pointer;
+
+}
+
+.info {
+    
+    background-color: #DEF0FF;
+    
+}.container_info {
+    padding: 120px;
+    width: 745px;
+    margin: 0 auto;
+    text-align-last: center;
+    color:#0F4C92;
+}
+.paragraph_2 {
+    color:#0F4C92;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+
+.about {
+ margin-bottom: 70px;
+}
+
+.about_block {
+    width: 1195px;
+    margin: 0 auto;
+    display: flex;
+
+
+}
+
+.about_description {
+    padding-left: 80px;
+    padding-top: 65px; 
+    margin-top: 40px;
+    padding-right: 80px;
+
+}
+.about_block img {
+    width: 585px;
+    height: 580px;
+    border-radius: 20px;
+    margin-top: 70px;
+    
+
+}
+h3 {
+    font-size: 26px;
+    font-weight: 700px;
+    line-height: 30px;
+    color:#0F4C92;
+
+}
+span {
+    font-weight: bold;
+}
+.date {
+    font-size: 20px;
+    line-height: 23px;
+    color: #1B1B1B;
+    margin-top: 20px;
+}
+.text_description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #1B1B1B;
+    
+}
+
+.about_button {
+    background-color:#0F4C92;
+    border-radius: 95px;
+    border: none;
+    color: #fff;
+    font-size: 21px;
+    line-height: 25px;
+    width: 314px;
+    height: 57px;
+    padding: 16px 70px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* display: flex; */
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+
+
+    
+    
+    
+}
+.callback_form {
+    color: #F9F9F9;
+    text-align: center;
+    background: linear-gradient(327.75deg, #0080BF 9.35%, #00496C 117.99%);
+    border-radius: 50px;
+    width: 875px;
+    height: 400px;
+    padding: 100px 80px 50px;
+
+   
+
+}
+
+.h_form {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 75px;
+
+}
+.callback_form input {
+    width: 350px;
+    border: 1px solid #F7F6F6;
+    background-color: transparent;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-size: 18px;
+    line-height: 21px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+.callback_form input::placeholder {
+    color:#B2E3FF;
+    font-size: 15px;
+}
+.callback_form input:first-child {
+    margin-right: 15px;
+
+}
+.btn_2 {
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    background-color: #FF9728;
+    border-radius: 30px;
+    border: none;
+    padding: 16px 40px;
+    cursor: pointer;
+}
+
+.booking {
+    background-color: #B5E4FF;
+    padding: 97px;
+}
+.book_room {
+    padding: 30px;
+    color: #F4F4F4;
+    width: 785px;
+    height: 348px;
+    background-color: #00496C;
+    border-radius: 20px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+.booking_h {
+    color: #F4F4F4;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.map_h {
+    text-align: center;
+    color: #00496C;
+    margin: 75px 0;
+}
+.map {
+    width: 100%;
+    height: 355px;
+    
+
+}
+.footer {
+    background-color: #0B83BE;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 115px;
+    
+
+}
+.p_3 {
+    font-style: 20px;
+    color: #F4F4F4;
+    line-height: 23px;
+    font-weight: 400;
+}
+a {
+    color: #F4F4F4;
+}
+.p_4 {
+    font-style: 20px;
+    color: #F4F4F4;
+    line-height: 23px;
+    margin-top: 70px;
+    font-weight: 400;
+}
